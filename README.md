@@ -1,4 +1,6 @@
-# [site-link](https://nitinyadav-search-githubusers.netlify.app/)
+# Deployed
+
+[Search-githubUsers](https://nitinyadav-search-githubusers.netlify.app/)
 
 ## Starter Project
 
